@@ -1,0 +1,1 @@
+This assignment implements basic mathematical functions used in machine learning such as mean, variance, standard deviation, correlation, z-score, normalization, matrix operations, regression error, sigmoid, classification metrics, and entropy using Python.
